@@ -1,0 +1,15 @@
+{
+  "name": "dancewebsite",
+  "version": "1.0.0",
+  "description": "The best dance coaching center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
